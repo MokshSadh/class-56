@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background: linear-gradient(#00ffff 0% ,#fcba03 50% , #ff5100 100%);
+}
+img{
+    width: 400px;
+    border-radius: 20%;
+  border: 10px ridge rgb(150, 229, 255);
+}
+#para{
+    font-size: 20px;
+    font-family: 'Holtwood One SC', serif;
+
+}
+#intro{
+    font-size: 25px;
+    font-family: 'Shadows Into Light Two', cursive;
+}
